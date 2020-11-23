@@ -1,0 +1,10 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>itsrounak</title>
+        <link>https://itsrounak.github.io/</link>
+        <description>itsrounak</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>rounak.agarwal14@gmail.com (Rounak Agarwal)</managingEditor>
+            <webMaster>rounak.agarwal14@gmail.com (Rounak Agarwal)</webMaster><lastBuildDate>Sun, 22 Nov 2020 17:28:40 &#43;1100</lastBuildDate>
+            <atom:link href="https://itsrounak.github.io/index.xml" rel="self" type="application/rss+xml" />
+        </channel>
+</rss>

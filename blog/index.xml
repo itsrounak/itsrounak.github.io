@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on itsrounak</title>
+    <link>https://itsrounak.github.io/blog/</link>
+    <description>Recent content in Blogs on itsrounak</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>rounak.agarwal14@gmail.com (Rounak Agarwal)</managingEditor>
+    <webMaster>rounak.agarwal14@gmail.com (Rounak Agarwal)</webMaster>
+    <lastBuildDate>Sun, 22 Nov 2020 17:28:40 +1100</lastBuildDate><atom:link href="https://itsrounak.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pathway to Data Science</title>
+      <link>https://itsrounak.github.io/blog/pathway-to-data-science/</link>
+      <pubDate>Sun, 22 Nov 2020 17:28:40 +1100</pubDate>
+      <author>rounak.agarwal14@gmail.com (Rounak Agarwal)</author>
+      <guid>https://itsrounak.github.io/blog/pathway-to-data-science/</guid>
+      <description>pathway This is a sample pathway to conquer the world of Data Science ;)</description>
+    </item>
+    
+  </channel>
+</rss>

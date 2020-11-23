@@ -1,0 +1,11 @@
+<urlset
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xhtml="http://www.w3.org/1999/xhtml"
+    ><url>
+            <loc>https://itsrounak.github.io/projects/</loc><lastmod>2020-11-22T17:56:18&#43;11:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://itsrounak.github.io/about/</loc><lastmod>2020-11-22T17:38:01&#43;11:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://itsrounak.github.io/blog/</loc><lastmod>2020-11-22T17:28:40&#43;11:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://itsrounak.github.io/</loc><lastmod>2020-11-22T17:28:40&#43;11:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://itsrounak.github.io/blog/pathway-to-data-science/</loc><lastmod>2020-11-22T17:28:40&#43;11:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://itsrounak.github.io/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://itsrounak.github.io/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>
